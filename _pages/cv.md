@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys in Theoretical Physics, University of Sheffield, 2011
+* PhD in Physics, University of Sheffield, 2015
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - present: Research Fellow
+  * Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds
+  * Duties included: Developing novel techniques for processing cardiac Diffusion Tensor Imaging data
+  * Supervisor: Professor Jurgen Schneider 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2021: Research Associate
+  * Department of Computer Science, INSIGNEO Institute for _in silico_ medicine, University of Sheffield
+  * Duties included: Calibration of cardiac electrophysiology models
+  * Supervisor: Professor Richard Clayton 
+
+* 2015 - 2017: Research Associate
+  * Department of Physics and Astronomy, University of Sheffield
+  * Duties included: Emulation of complex models with Gaussian Process emulators 
+  * Supervisor: Professor Nigel Clarke
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Gaussian process emulators
+    * surrogate models
+    * probabilistic calibration
+    * interpolation on non-Euclidean domains
+* Processing medical data
+  * MRI imaging data
+  * electrophysiology catheter measurements 
+* Research Software
+    * Python 
+    * R
 
 Publications
 ======
@@ -53,7 +61,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
