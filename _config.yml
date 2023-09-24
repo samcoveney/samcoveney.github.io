@@ -83,10 +83,10 @@ author:
   name             : "Sam Coveney"
   avatar           : "Sam_profile.png"
   bio              : "Research scientist, specializing in uncertainty quantification and model calibration, with special interest in cardiac electrophysiology"
-  location         : "Leeds Institute of Cardiac and Metabolic Medicine"
+  location         : "LICAMM, Uni of Leeds"
   employer         :
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=OzAQtkMAAAAJ"
   email            : "coveney.sam@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
