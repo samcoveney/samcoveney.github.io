@@ -4,7 +4,7 @@ collection: teaching
 type: "Sports coach"
 permalink: /teaching/2009-present-Sports-Coach-5
 venue: "Kyogikan dojo, Sheffield"
-date: 2009 - present
+date: 01-10-2009
 location: "Sheffield, UK"
 ---
 
