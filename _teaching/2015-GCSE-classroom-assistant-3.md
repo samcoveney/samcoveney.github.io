@@ -4,7 +4,7 @@ collection: teaching
 type: "Secondary education"
 permalink: /teaching/2015-GCSE-classroom-assistant-3
 venue: "Newfield School, Sheffield"
-date: Spring 2015
+date: 01-04-2015
 location: "Sheffield, UK"
 ---
 
