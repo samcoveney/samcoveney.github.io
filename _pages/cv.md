@@ -33,16 +33,17 @@ Employment
   
 Skills
 ======
-* Gaussian process emulators
-    * surrogate models
-    * probabilistic calibration
-    * interpolation on non-Euclidean domains
+* Uncertainty quantification
+  * model sensitivity
+  * probabilistic calibration
+  * inference with surrogate models
+  * Gaussian processes on non-Euclidean domains
 * Processing medical data
   * MRI imaging data
-  * electrophysiology catheter measurements 
-* Research Software
-    * Python 
-    * R
+  * electrophysiology data
+  * surface mesh manipulation
+* Computational electrophysiology
+* Developing research software
 
 Publications
 ======
