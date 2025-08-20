@@ -23,7 +23,7 @@ repository               : "samcoveney.github.io"
 author:
   name             : "Sam Coveney"
   avatar           : "Sam_profile.png"
-  bio              : "Research scientist, specializing in uncertainty quantification and model calibration, with special interest in cardiac electrophysiology"
+  bio              : "Research scientist, specializing in uncertainty quantification, probabilistic model calibration, and cardiac diffusion tensor imaging"
   location         : "LICAMM, Uni of Leeds"
   employer         :
   pubmed           :

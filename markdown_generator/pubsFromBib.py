@@ -34,13 +34,27 @@ publist = {
 #                        "permalink":"/publication/"}
 #        
 #    },
+    "misc":{
+        "file": "pubs.bib",
+        "venuekey" : "URL",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+    },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
-    } 
+    },
+#    "conference":{
+#        "file": "pubs.bib",
+#        "venuekey" : "proceedings title",
+#        "venue-pretext" : "",
+#        "collection" : {"name":"publications",
+#                        "permalink":"/publication/"}
+#    },
 }
 
 html_escape_table = {

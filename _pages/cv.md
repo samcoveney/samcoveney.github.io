@@ -18,7 +18,7 @@ Employment
 ======
 * 2021 - present: Research Fellow
   * Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds
-  * Duties included: Developing novel techniques for processing cardiac Diffusion Tensor Imaging data
+  * Duties included: Processing cardiac Diffusion Tensor Imaging data
   * Supervisor: Professor Jurgen Schneider 
 
 * 2017 - 2021: Research Associate
@@ -28,22 +28,23 @@ Employment
 
 * 2015 - 2017: Research Associate
   * Department of Physics and Astronomy, University of Sheffield
-  * Duties included: Emulation of complex models with Gaussian Process emulators 
+  * Duties included: Emulation of complex models with Gaussian process emulators 
   * Supervisor: Professor Nigel Clarke
   
 Skills
 ======
 * Uncertainty quantification
   * model sensitivity
-  * probabilistic calibration
-  * inference with surrogate models
-  * Gaussian processes on non-Euclidean domains
+  * probabilistic calibration with surrogate models
+  * Gaussian processes (including on non-Euclidean domains)
 * Processing medical data
-  * MRI imaging data
-  * electrophysiology data
+  * cardic MRI imaging data
   * surface mesh manipulation
-* Computational electrophysiology
-* Developing research software
+  * electrophysiology data
+* Coding and software
+  * highly skilled in Python, experienced in Matlab, R, C++
+  * version control (git) for large collaborative software (e.g. https://dipy.org/team.html)
+  * developing and maintaining research software for teams with varying levels of computer skills
 
 Publications
 ======
